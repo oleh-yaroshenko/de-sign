@@ -800,7 +800,7 @@ body {
     @media screen and (max-width: 480px) {
         & {
             width: calc(100% - 1rem);
-            flex-direction: column;
+            flex-direction: column-reverse;
         }
     }
 }
@@ -953,7 +953,7 @@ body {
     @media screen and (max-width: 480px) {
         & {
             width: calc(100% - 1rem);
-            flex-direction: column;
+            flex-direction: column-reverse;
         }
     }
 }
