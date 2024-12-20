@@ -133,6 +133,8 @@ body {
     background: $green;
     gap: 1rem;
     position: sticky;
+    width: 100%;
+    top: 0;
     @extend %padding;
 
     @media screen and (max-width: 480px) {

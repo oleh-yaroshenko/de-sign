@@ -111,6 +111,8 @@ body {
   background: #668586;
   gap: 1rem;
   position: sticky;
+  width: 100%;
+  top: 0;
 }
 @media screen and (max-width: 480px) {
   .header {
